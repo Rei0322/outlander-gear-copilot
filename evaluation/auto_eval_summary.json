@@ -1,0 +1,245 @@
+[
+  {
+    "index": 0,
+    "query": "How much do the TrailWalker Hiking Shoes cost?",
+    "ground_truth": "The TrailWalker Hiking Shoes are priced at $110.",
+    "response": "The TrailWalker Hiking Shoes cost $110【4:0†source】.",
+    "scores": {
+      "IntentResolution": 5.0,
+      "TaskAdherence": 1.0,
+      "Relevance": 4.0,
+      "Groundedness": 5.0,
+      "Fluency": 3.0,
+      "Coherence": 4.0,
+      "Similarity": 5.0
+    },
+    "failed": []
+  },
+  {
+    "index": 1,
+    "query": "Which tent is the most waterproof?",
+    "ground_truth": "The Alpine Explorer Tent has the highest rainfly waterproof rating at 3000mm.",
+    "response": "The most waterproof tent among Outlander Gear options is the **Alpine Explorer Tent**, featuring a rainfly with a waterproof rating of **3000mm**, offering substantial protection against heavy rain【4:0†source】【4:7†source】.",
+    "scores": {
+      "IntentResolution": 5.0,
+      "TaskAdherence": 1.0,
+      "Relevance": 4.0,
+      "Groundedness": 5.0,
+      "Fluency": 4.0,
+      "Coherence": 4.0,
+      "Similarity": 5.0
+    },
+    "failed": []
+  },
+  {
+    "index": 2,
+    "query": "Can the warranty for TrailBlaze pants be transferred?",
+    "ground_truth": "No. The TrailBlaze Hiking Pants warranty is non-transferable and applies only to the original purchaser.",
+    "response": "The warranty for TrailBlaze Hiking Pants is non-transferable and applies only to the original purchaser. It is valid only when purchased from an authorized retailer【4:0†source】.",
+    "scores": {
+      "IntentResolution": 5.0,
+      "TaskAdherence": 1.0,
+      "Relevance": 4.0,
+      "Groundedness": 5.0,
+      "Fluency": 3.0,
+      "Coherence": 4.0,
+      "Similarity": 5.0
+    },
+    "failed": []
+  },
+  {
+    "index": 3,
+    "query": "How long is the warranty on the TrailBlaze Hiking Pants?",
+    "ground_truth": "The TrailBlaze Hiking Pants have a 1-year limited warranty from the date of purchase.",
+    "response": "The TrailBlaze Hiking Pants come with a 1-year limited warranty from the date of purchase. This warranty covers manufacturing defects in materials and workmanship【4:0†source】.",
+    "scores": {
+      "IntentResolution": 5.0,
+      "TaskAdherence": 1.0,
+      "Relevance": 4.0,
+      "Groundedness": 5.0,
+      "Fluency": 3.0,
+      "Coherence": 5.0,
+      "Similarity": 5.0
+    },
+    "failed": []
+  },
+  {
+    "index": 4,
+    "query": "What is the rainfly waterproof rating of the TrailMaster X4 Tent?",
+    "ground_truth": "The TrailMaster X4 Tent has a rainfly waterproof rating of 2000mm.",
+    "response": "The rainfly of the TrailMaster X4 Tent has a waterproof rating of 2000mm, providing excellent protection against rain【4:2†source】.",
+    "scores": {
+      "IntentResolution": 5.0,
+      "TaskAdherence": 1.0,
+      "Relevance": 5.0,
+      "Groundedness": 5.0,
+      "Fluency": 3.0,
+      "Coherence": 4.0,
+      "Similarity": 5.0
+    },
+    "failed": []
+  },
+  {
+    "index": 5,
+    "query": "How many people does the Alpine Explorer Tent sleep?",
+    "ground_truth": "The Alpine Explorer Tent is an 8-person tent.",
+    "response": "The Alpine Explorer Tent is designed to sleep up to 8 people【4:4†source】.",
+    "scores": {
+      "IntentResolution": 5.0,
+      "TaskAdherence": 1.0,
+      "Relevance": 4.0,
+      "Groundedness": 5.0,
+      "Fluency": 3.0,
+      "Coherence": 4.0,
+      "Similarity": 5.0
+    },
+    "failed": []
+  },
+  {
+    "index": 6,
+    "query": "What is the capacity of the Adventurer Pro Backpack?",
+    "ground_truth": "The Adventurer Pro Backpack has a 40-liter capacity.",
+    "response": "The Adventurer Pro Backpack has a 40-liter capacity, providing ample storage for outdoor adventures【4:3†source】【4:4†source】.",
+    "scores": {
+      "IntentResolution": 5.0,
+      "TaskAdherence": 1.0,
+      "Relevance": 5.0,
+      "Groundedness": 5.0,
+      "Fluency": 3.0,
+      "Coherence": 4.0,
+      "Similarity": 5.0
+    },
+    "failed": []
+  },
+  {
+    "index": 7,
+    "query": "Which backpack has more storage, the Adventurer Pro or the SummitClimber?",
+    "ground_truth": "The SummitClimber Backpack has more storage at 60 liters, compared with 40 liters for the Adventurer Pro Backpack.",
+    "response": "The **SummitClimber Backpack** offers more storage with a capacity of **60 liters**, compared to the **Adventurer Pro Backpack**, which has a **40-liter capacity**【4:0†source】【4:1†source】.",
+    "scores": {
+      "IntentResolution": 5.0,
+      "TaskAdherence": 1.0,
+      "Relevance": 5.0,
+      "Groundedness": 5.0,
+      "Fluency": 3.0,
+      "Coherence": 5.0,
+      "Similarity": 5.0
+    },
+    "failed": []
+  },
+  {
+    "index": 8,
+    "query": "How much does the EcoFire Camping Stove weigh?",
+    "ground_truth": "The EcoFire Camping Stove weighs 4 lbs.",
+    "response": "The EcoFire Camping Stove weighs 4 lbs, making it lightweight and easy to transport【4:5†source】【4:6†source】.",
+    "scores": {
+      "IntentResolution": 5.0,
+      "TaskAdherence": 1.0,
+      "Relevance": 5.0,
+      "Groundedness": 5.0,
+      "Fluency": 3.0,
+      "Coherence": 4.0,
+      "Similarity": 5.0
+    },
+    "failed": []
+  },
+  {
+    "index": 9,
+    "query": "What temperature range is the MountainDream Sleeping Bag rated for?",
+    "ground_truth": "The MountainDream Sleeping Bag is rated for temperatures between 15°F and 30°F.",
+    "response": "The MountainDream Sleeping Bag is rated for temperatures between 15°F and 30°F, making it suitable for cool to cold conditions【4:0†source】【4:4†source】【4:5†source】.",
+    "scores": {
+      "IntentResolution": 5.0,
+      "TaskAdherence": 1.0,
+      "Relevance": 4.0,
+      "Groundedness": 5.0,
+      "Fluency": 3.0,
+      "Coherence": 4.0,
+      "Similarity": 5.0
+    },
+    "failed": []
+  },
+  {
+    "index": 10,
+    "query": "What sizes does the Summit Breeze Jacket come in?",
+    "ground_truth": "The Summit Breeze Jacket is available in sizes M, L, and XL.",
+    "response": "The Summit Breeze Jacket is available in sizes Medium (M), Large (L), and Extra Large (XL)【4:0†source】【4:4†source】.",
+    "scores": {
+      "IntentResolution": 5.0,
+      "TaskAdherence": 1.0,
+      "Relevance": 4.0,
+      "Groundedness": 5.0,
+      "Fluency": 3.0,
+      "Coherence": 4.0,
+      "Similarity": 5.0
+    },
+    "failed": []
+  },
+  {
+    "index": 11,
+    "query": "What are the tabletop dimensions of the BaseCamp Folding Table?",
+    "ground_truth": "The BaseCamp Folding Table has a 48in x 24in tabletop.",
+    "response": "The tabletop dimensions of the BaseCamp Folding Table are 48 inches long by 24 inches wide【4:0†source】【4:1†source】.",
+    "scores": {
+      "IntentResolution": 5.0,
+      "TaskAdherence": 1.0,
+      "Relevance": 4.0,
+      "Groundedness": 5.0,
+      "Fluency": 3.0,
+      "Coherence": 4.0,
+      "Similarity": 5.0
+    },
+    "failed": []
+  },
+  {
+    "index": 12,
+    "query": "Which is the cheapest camping stove you sell?",
+    "ground_truth": "The CompactCook Camping Stove is the cheapest at $60.",
+    "response": "The cheapest camping stove offered by Outlander Gear Co. is the **CompactCook Camping Stove**, priced at $60【4:2†source】.",
+    "scores": {
+      "IntentResolution": 5.0,
+      "TaskAdherence": 1.0,
+      "Relevance": 4.0,
+      "Groundedness": 5.0,
+      "Fluency": 3.0,
+      "Coherence": 4.0,
+      "Similarity": 5.0
+    },
+    "failed": []
+  },
+  {
+    "index": 13,
+    "query": "What brand makes the SkyView 2-Person Tent and how much is it?",
+    "ground_truth": "The SkyView 2-Person Tent is made by OutdoorLiving and costs $200.",
+    "response": "The SkyView 2-Person Tent is made by SkyView Outdoor Gear and is priced at $200【4:0†source】【4:6†source】.",
+    "scores": {
+      "IntentResolution": 5.0,
+      "TaskAdherence": 1.0,
+      "Relevance": 4.0,
+      "Groundedness": 5.0,
+      "Fluency": 3.0,
+      "Coherence": 4.0,
+      "Similarity": 3.0
+    },
+    "failed": []
+  },
+  {
+    "index": 14,
+    "query": "Do you sell kayaks?",
+    "ground_truth": "Kayaks are not in the product catalog, so there is no information available about them.",
+    "response": "I couldn't find information in the knowledge base about Outlander Gear Co. selling kayaks. Let me know if you'd like help with other product categories!",
+    "scores": {
+      "IntentResolution": 2.0,
+      "TaskAdherence": 1.0,
+      "Relevance": 2.0,
+      "Groundedness": 5.0,
+      "Fluency": 3.0,
+      "Coherence": 3.0,
+      "Similarity": 3.0
+    },
+    "failed": [
+      "IntentResolution",
+      "Relevance"
+    ]
+  }
+]
