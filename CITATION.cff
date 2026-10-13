@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Outlander Gear Co. Product Data Copilot"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Ray
+    given-names: Samira
+    orcid: "https://orcid.org/0009-0006-6885-8400"
+abstract: "A grounded product-data copilot built in Microsoft Foundry. A gpt-4o agent answers customer questions about prices, specs, warranties, and comparisons using an Azure AI Search knowledge base, with automated and manual evaluation and a deployed Responses API endpoint. Udacity Azure Generative AI Engineer Nanodegree, Project 2."
+repository-code: "https://github.com/Rei0322/outlander-gear-copilot"
+license: MIT
+keywords:
+  - generative-ai
+  - rag
+  - microsoft-foundry
+  - azure-ai-search
+  - llm-evaluation
+  - copilot
