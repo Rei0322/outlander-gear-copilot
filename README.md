@@ -1,5 +1,7 @@
 # Outlander Gear Co. Product Data Copilot
 
+[![DOI](https://zenodo.org/badge/1417294379.svg)](https://doi.org/10.5281/zenodo.23346733)
+
 An AI copilot that answers customer questions about Outlander Gear Co.'s outdoor products: prices, specs, warranties, and comparisons. It's built entirely in **Microsoft Foundry**. A gpt-4o agent answers questions, and every answer is grounded in the product catalog through an **Azure AI Search** knowledge base.
 
 *Udacity Azure Generative AI Engineer Nanodegree, Project 2*
